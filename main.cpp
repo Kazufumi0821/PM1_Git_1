@@ -9,6 +9,7 @@ LC1A_17_ツチヤ_カズフミ
 int main() {
 
 	printf("Hello World!\n");
+	printf("New World!\n");
 
 	return 0;
 }
